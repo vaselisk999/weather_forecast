@@ -7,10 +7,10 @@ header{
     justify-content: start;
 }
 
-#search-button{
-    background-color: #eee !important;
-}
-
 .input-group-append{
     display: block;
+}
+
+.cityButton{
+    margin: 10px 0;
 }
