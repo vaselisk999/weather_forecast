@@ -1,16 +1,21 @@
-header{
-    background-color: rgb(0, 102, 255);
-}
-
-.searchlabel{
-    width: 100px;
-    justify-content: start;
-}
-
-.input-group-append{
-    display: block;
-}
-
-.cityButton{
+/* city button styles */
+.cityButton {
     margin: 10px 0;
+}
+
+/* today styles */
+#today {
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+/* forecast styles */
+#forecast {
+    border: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
 }
