@@ -34,4 +34,10 @@ You will use `localStorage` to store any persistent data. For more information o
 
 The following image shows the web application's appearance and functionality:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for London.](./assets/10-server-side-apis-challenge-demo.png)
+![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for London.](./assets/images/weather.png)
+
+## Review
+
+* The URL of the deployed application. [Application link](https://vaselisk999.github.io/work-day-sheduler/).
+
+* The URL of the GitHub repository. [Repository link](https://github.com/vaselisk999/work-day-sheduler).

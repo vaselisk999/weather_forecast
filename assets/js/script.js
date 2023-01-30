@@ -163,8 +163,9 @@ function renderWeather(index) {
                 if (Object.hasOwnProperty.call(fiveWeather[0].list, key)) {
                     const element = fiveWeather[index].list[key];
                     if (key === moment().format("YYYY-MM-DD")) {
+                        console.log(element)
                         // displaies today
-                        currentDayWeather(element[0], fiveWeather[0].name);
+                        currentDayWeather(element[0], fiveWeather[index].name);
                     } else {
                         // displaies forecast
                         forecastWeather(element);
