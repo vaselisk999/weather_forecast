@@ -5,17 +5,28 @@
 
 /* today styles */
 #today {
-    border: 1px solid rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 20px;
     padding: 10px;
 }
 
 /* forecast styles */
 #forecast {
-    border: 1px solid rgba(0, 0, 0, .1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 20px;
     padding: 10px;
     margin: 10px 0;
     display: flex;
     justify-content: space-between;
+}
+
+#forecast div{
+    padding: 10px;
+    background-color: rgb(18, 158, 223);
+    color: white;
+    margin-bottom: 10px;
+}
+
+.title-card{
+    font-weight: bold;
 }
