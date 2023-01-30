@@ -38,6 +38,6 @@ The following image shows the web application's appearance and functionality:
 
 ## Review
 
-* The URL of the deployed application. [Application link](https://vaselisk999.github.io/work-day-sheduler/).
+* The URL of the deployed application. [Application link](https://vaselisk999.github.io/weather_forecast/).
 
-* The URL of the GitHub repository. [Repository link](https://github.com/vaselisk999/work-day-sheduler).
+* The URL of the GitHub repository. [Repository link](https://github.com/vaselisk999/weather_forecast).
